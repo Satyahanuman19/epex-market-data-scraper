@@ -31,6 +31,34 @@ The test performs the following steps:
 
 ---
 
+## ⚡ Prerequisites
+
+- Node.js (v16+ recommended)
+- npm (v8+ recommended)
+- Internet access to reach EPEX SPOT website
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Satyahanuman19/epex-market-data-scraper.git
+cd epex-market-data-scraper
+```
+---
+
+## ▶️ Running the Tests
+
+npx playwright test
+
+---
+
+## 📄 Output
+
+- Scraped market data is written to: **output/market-data.csv**
+
+---
 
 ## 👤 Author
 **Satya Hanuman Bondada**  
