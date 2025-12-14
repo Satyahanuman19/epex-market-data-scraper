@@ -50,8 +50,8 @@ cd epex-market-data-scraper
 
 ## ▶️ Running the Tests
 
-npm install
-npx playwright test
+- npm install
+- npx playwright test
 
 ---
 
